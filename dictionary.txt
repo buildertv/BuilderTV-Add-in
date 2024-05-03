@@ -1,0 +1,22 @@
+Legal documents: giấy tờ pháp lý
+Loan: khoản vay thế chấp
+mortgage: khoản vay thế chấp
+Principal: tiền vốn (phải trả)
+Interest: tiền lãi (phải trả)
+Contract: hợp đồng
+Agreement contract: hợp đồng thoả thuận
+Deposit: tiền đặt cọc
+Breach: sự vi phạm hợp đồng
+Appraisal: sự định giá
+Assets: tài sản
+Liquid assets: tài sản lưu động
+Beneficiary: người/bên thụ hưởng
+Bid: đấu thầu
+Building permit: giấy phép xây dựng
+Charter capital: vốn điều lệ
+For sale: đang được rao bán
+For lease: cho thuê
+Negotiate: thương lượng
+Transfer: bàn giao
+Assignment: bàn giao
+Transfer deeds: hợp đồng bàn giao
