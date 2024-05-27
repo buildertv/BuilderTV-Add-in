@@ -1,24 +1,432 @@
-Từ gốc: từ dịch
-BuilderTV: hoangtuan.net
-Legal documents: giấy tờ pháp lý
-Loan: khoản vay thế chấp
-mortgage: khoản vay thế chấp
-Principal: tiền vốn (phải trả)
-Interest: tiền lãi (phải trả)
-Contract: hợp đồng
-Agreement contract: hợp đồng thoả thuận
-Deposit: tiền đặt cọc
-Breach: sự vi phạm hợp đồng
-Appraisal: sự định giá
-Assets: tài sản
-Liquid assets: tài sản lưu động
-Beneficiary: người/bên thụ hưởng
-Bid: đấu thầu
-Building permit: giấy phép xây dựng
-Charter capital: vốn điều lệ
-For sale: đang được rao bán
-For lease: cho thuê
-Negotiate: thương lượng
-Transfer: bàn giao
-Assignment: bàn giao
-Transfer deeds: hợp đồng bàn giao
+Accepted Contract Amount#Số tiền được chấp thuận theo Hợp đồng
+Appendix to Tender#Phụ lục của Hồ sơ dự thầu
+Base Date#Ngày hẹn
+Commencement Date#Ngày khởi công
+Contractor’s Documents#Hồ sơ Nhà thầu
+Contractor’s Equipment#Thiết bị Nhà thầu
+Contractor’s Personnel#Nhân lực Nhà thầu
+Cost#Chi phí
+Country#Nước sở tại
+DAB#DAB-Ban xử lý tranh chấp
+Daywork Schedule#Bảng kê ngày công
+Defects Notification Period#Thời hạn thông báo sai sót
+Employer#Chủ đầu tư
+Employer’s Equipment#Thiết bị Chủ đầu tư
+Employer’s Personnel#Nhân lực Chủ đầu tư
+Final Payment Certificate#Chứng chỉ Thanh toán cuối cùng
+Final Statement#Bảng kê khai cuối cùng
+Goods#Hàng hóa
+Interim Payment Certificate#Chứng chỉ thanh toán tạm
+Letter of Tender#Thư dự thầu
+Materials#Vật liệu
+Party#Bên
+Performance Certificate#Chứng chỉ thực hiện
+Performance Security#Bảo lãnh thực hiện
+Permanent Works#Công trình vĩnh cửu
+Plant#Thiết bị
+Provisional Sum#Số tiền tạm thời
+Schedules#Bảng danh mục
+Section#Hạng mục công trình
+Site#Công trường
+Specification#Danh mục
+Statement#Bảng kê khai
+Taking-over Certificate#Chứng chỉ nghiệm thu
+Temporary Works#Công trình tạm
+Tender#Hồ sơ dự thầu
+Tests after Completion#Thử sau khi hoàn thành
+Tests on Completion#Thử khi hoàn thành
+Time for Completion#Thời hạn hoàn thành
+Unforeseeable#Không lường trước được
+Variation#Biến đổi (phát sinh)
+Works#Công trình
+Bảng tiên lượng#Bill of quantities (BOQ)
+Báo cáo Đánh giá HSDT#Bid/proposal evaluation report
+Báo cáo Đánh giá HSDT Mẫu#Model bid evaluation report (mber)
+Báo cáo đánh giá thầu#Bid Evaluation Report (BER)
+Báo cáo sơ tuyển#Prequalification report
+Bảo đảm dự thầu#Bid security
+Bảo lãnh dự thầu#Bid security
+Bên mời thầu#Procuring Entity
+Bên mời thầu (mời chào hàng)#Offeree – A person (a buyer) to whom a supply offer is made
+Biên bản Mở thầu#Record of Bid Opening
+Biên bản mở thầu, ngày gửi lên Ngân hàng#Record of bid opening, date sent to Bank
+Buộc phải loại bỏ hồ sơ dự thầu có giá bỏ thầu thấp nhất vì lý do năng lực không đủ#Forced to reject the lowest tender on the grounds of incapacity
+Các tổ chức mua sắm chuyên nghiệp: Khi Bên vay thiếu tổ chức, nguồn lực và kinh nghiệm cần thiết, Bên vay có thể (hoặc do Ngân hàng yêu cầu) thuê một công ty mua sắm chuyên nghiệp làm đại diện cho mình.#Procurement Agencies: Where Borrowers lack the necessary organization, resources, and experience, Borrowers may wish (or be required by the Bank) to employ, as their agent, a firm specializing in handling procurement.
+Cách chào giá#Pricing
+Cán bộ phụ trách đấu thầu của dự án#Project procurement staff
+Chấm dứt  hợp đồng do chủ công trình không thanh toán#Termination on Employer’s failure to make payment
+Chậm thanh toán#Delayed payment
+Chậm thực hiện hợp đồng#Slow contract implementation
+Chậm trễ được gia hạn#Prolonged delay
+Chào hàng Cạnh tranh Quốc tế hoặc Trong nước#International or National Shopping
+Chào hàng cạnh tranh#Shopping
+Chấp thuận trúng thầu#Acceptance of bids
+Chỉ dẫn cho Nhà thầu#Instructions to bidders
+Chỉ dẫn Chung và Chỉ dẫn Riêng cho Nhà thầu#General Instructions and Particular Instructions
+Chỉ định thầu#Direct contracting
+Cho phép đại diện cộng đồng (những người hưởng lợi) tham dự mở thầu#Allowing beneficiary representatives to attend bid opening
+Chương trình thử nghiệm hợp đồng dài hạn dựa trên năng lực thực hiện#Pilot program of long-term performance-based contracts
+Chuyên gia Đấu thầu#Procurement specialist
+Chuyên gia phân tích đấu thầu#Procurement Analyst
+Chuyên gia Quản lý Hợp đồng#Contract Management Specialist
+Có nhiều điểm khác biệt quan trọng so với thủ tục đấu thầu của ngân hàng thế giới#Contain acute differences from WB’s procurement procedures
+Cơ quan thực hiệnTrong đấu thầu, cơ quan thực hiện việc đấu thầu là bên mời thầu#Executing Agency
+Cơ sở để loại hồ sơ dự thầu#Grounds for disqualifying the bid
+Cơ sở Dữ liệu Thông tin Nhà thầu#Government Database on Bidder Information
+Có thể dẫn đến sự xung đột về quyền lợi mà có khả năng dẫn đến sự thoả hiệp về chất lượng hay sự thiên vị#Can lead to conflicts-of-interest, potentially resulting in compromises on quality and fairness
+Công thức điều chỉnh giá#Escalation Formula (price adjustment Formula)
+Đánh giá giá dự thầu nhằm mục đích so sánh các hồ sơ dự thầu#In evaluating bid prices for comparison purposes
+Đánh giá hồ sơ dự thầu#Evaluation of Bids (Bid Evaluation)
+Đánh giá Năng lực Đấu thầu#Procurement capacity assessment (pca)
+Danh mục nhà thầu#Tender list
+Đáp ứng các yêu cầu của HSDT mà không có sai lệch đáng kể, nhà thầu không đặt ra các điều kiện, hay bỏ sót nội dung#Meets the requirements of the Bidding Documents without material deviation, reservation, or omission
+Đấu thầu#Procurement
+Đấu thầu cạnh tranh trong nước#National Competitive Bidding (NCB)
+Đấu thầu hai giai đoạn#Two-stage bidding/tendering
+Đấu thầu một túi hồ sơ#Single-envelope bidding
+Đấu thầu mua sắm các thiết bị văn phòng có liên quan trực tiếp đến các hoạt động của RT3#Procurement of office equipment directly related to operations of RT3
+Đấu thầu mua sắm Dịch vụ Tư vấn, Công trình và Hàng hóa#Procurement of Consulting Services, Works and Goods
+Đấu thầu mua sắm Hàng hoá và Công trình#Procurement of Goods and Works
+Đấu thầu rộng rãi#Open tenderAn invitation to bid open to all suppliers willing to submit offers
+Đấu thầu Rộng rãi Quốc tế#International competitive bidding (icb)
+Đấu thầu Rộng rãi Trong nước#National competitive bidding (ncb)
+Đấu thầu theo thể thức ICB đơn giản#Modified ICB
+Đấu thầu xây lắp#Procurement of civil works
+Để đảm bảo tính tiết kiệm, hiệu quả, minh bạch và thống nhất rộng rãi với quy định của Phần I của Hướng dẫn#To ensure economy, efficiency, transperency and broad consistency with the provision of Section I of the Guidelines
+Để loại bỏ bất kỳ khả năng người đánh giá bị tố cáo là thông đồng hay cấu kết#To remove any possibility of accusations of collusion against the assessor(s)
+Đề xuất tài chính#Financial proposal
+Điều chỉnh giá#Price adjustments
+Điều khoản điều chỉnh giá#Price Revision ClauseA clause in contract allowing for adjustment in price
+Điều khoản tài chính#Financial covenant(s)
+Điều kiện của hợp đồng#Conditions of Contract
+Điều kiện Đặc biệt (điều kiện riêng)#Special Conditions, Particular Conditions, Conditions of Particular Application
+Đòi bồi thường theo bảo  lãnh thực hiện hợp đồng#Claims under Performance Security
+Đối với hợp đồng tuyển tư vấn là các cá nhân có giá trị ước tính là…#With respect to each contract for the employment of individual consultants estimated to cost…
+Đối với những hợp đồng lớn và phức tạp#On large and complicated contracts
+Đối với thủ tục đấu thầu theo hình thức NCB, đã đạt được thoả thuận với Chính phủ Việt Nam#For NCB procedures, agreement was reached with gov
+Đơn dự thầu#Letter of Bid
+Đóng thầuLà thời điểm kết thúc việc nộp hồ sơ dự thầu được quy định trong hồ sơ mời thầu#Bid closingThe deadline to finish the submission of bids which is specified in the bidding documents
+Đồng tiền dự thầuLà đồng tiền mà nhà thầu sử dụng trong HSDT của mình#Bid currencyThe currency or currencies in which the bidder has dominated the bid price.
+Đồng tiền dự thầuLà đồng tiền quy định trong HSMT mà nhà thầu sẽ chào trong HSDT của mình#Currencies of the bidThe currency or currencies specified in the bidding documents in which the bid price may be stated
+Đồng tiền thanh toán#Currencies of payment
+Dữ liệu Sơ tuyển#Prequalification data sheet
+Được bỏ qua#Is negligible
+Được đào tạo chuyên sâu về đấu thầu#Be provided with extensive procurement training
+Được đào tạo cơ bản về đấu thầu#Be provided with basic procurement training
+Đường thu phí được xây dựng theo hình thức Xây dựng – Vận hành – Chuyển giao#Build-Operatate-Transfer toll roads
+EPC – Thiết kế, cung cấp vật tư thiết bị và xây lắp#Engineering Procuring Construction (EPC)
+Giá dẫn đầu#Price Leadership
+Giá danh nghĩaMức giá không được điều chỉnh bởi tác động của yếu tố lạm phát#Nominal Prices or Current prices
+Giá dự thầu như thông báo tại lễ Mở thầu#Bid prices as read out at the Bid Opening
+Giá hợp đồng#Contract price
+Giai đoạn sơ tuyển#Prequalification phase
+Giai đoạn thông báo#Notification phase
+Giai đoạn trao thầu#Contract award phase
+Giảm giá có thể được chào theo một khoản khấu trừ trọn gói#Discount may be offered as a lump-sum deduction
+Giảm giá dự thầuLà việc nhà thầu giảm một phần giá trong giá dự thầu của mình#Bid discountsAn allowance or deduction offered by a bidder in  his price
+Giảm số công ty bị mất tiền trong việc chuẩn bị các HSDT không đạt yêu cầu#Reduce the number of companies who lose money in preparing unsuccessful tenders
+Giới hạn số công ty được mời tham gia bỏ thầu#Limit the number of companies invited to submit tenders
+Giữ lại tất cả tài liệu và hồ sơ đấu thầu#Retain all procurement documents
+Hạn chót nộp gửi câu trả lời bằng fax là …#A deadline for submission of answers by fax
+Hạn chót nộp HSDT#Bid submission deadline
+ngày, giờ quy định ban đầu#original date, time
+gia hạn (nếu có)#extensions, if any
+Hạn định thời gian  để thông báo chính thức về trọng tài#time limit for formal notice of Arbitration
+Hạn mức được chỉ định thầu#Ceilings for direct procurement
+Hàng hoá (phương tiện, thiết bị) đấu theo theo hình thức Đấu thầu hạn chế#Goods (vehicles, equipment) to be procured through the Shopping procedure
+Hành vi cưỡng ép#Coercive practice
+Hành vi gian lận#Fraudulent practice
+Hành vi tham nhũng#Corrupt practice
+Hành vi thông đồng#Collusive practice
+Hậu tuyểnNếu không có sơ tuyển thì Bên mời thầu sẽ đánh giá năng lực của các nhà thầu sau khi có kết quả đánh giá#Post qualification of Bidder
+Hậu tuyển#Postqualification
+quá trình xét tuyển nhà thầu tiềm năng sau khi phát thành thư mời thầu#qualification of potential contractors is carried out after invitation to tender have been issued
+Hệ thống Đạt-Không đạt#Pass-Fail system
+Hệ thống Điểm thưởng#Merit-point system
+Hiệu chỉnh sai lệch#Adjustment of deviation
+Hiệu lực của HSDT và Bảo lãnh dự thầu#Validity of Bids and Bid Security
+Hồ sơ dự sơ tuyển#Applications for prequalification
+Hồ sơ dự sơ tuyển#PQ Applications/submissions
+Hồ sơ dự sơ tuyển#Prequalification submissions
+Hồ sơ dự thầu nộp sau ngày cuối cùng nộp hồ sơ dự thầu sẽ bị trả lại nguyên#Bids received after the deadline for bid submission shall be returned to the bidders unopened
+Hồ sơ Dự thầu thay thế#Alternative bid
+Hồ sơ kinh nghiệm#Experience record
+Hồ sơ mời Quan tâm#Request for Expression of Interest
+Hồ sơ Mời thầu#Bidding Documents/Request for Proposals
+Hồ sơ Mời thầu Mẫu#Model bidding documents
+Hồ sơ Mời thầu Mua sắm Hàng hoá Tiêu chuẩn#Standard Bidding Documents for Procurement of Goods
+Hồ sơ mời thầu phải cung cấp hướng dẫn rõ ràng về phương thức nộp hồ sơ dự thầu, phương thức chào giá và thời gian, địa điểm nộp hồ sơ dự thầu#The bidding documents shall provide clear instructions on how bids should be submitted, how prices should be offered, and the place and time for submission of bids
+Hồ sơ Mời thầu Tiêu chuẩn#Standard Bidding Document
+tên, ngày phát hành#title, publication date
+ngày Ngân hàng chấp thuận#date of Bank’s no-objection
+ngày phát hành cho nhà thầu#date of issue to bidders
+Hồ sơ Mời thầu Tư vấn#Request for Proposal (RFP)
+Hồ sơ Mời thầu Tư vấn Mẫu của Ngân hàng Thế giới#The Bank’s Standard Request for Proposals (SRFP)
+Hồ sơ sơ tuyển#PQ documents
+Hồ sơ sơ tuyển#Prequalification documentation
++ tài liệu sơ tuyển#+ prequalification document
++ tài liệu đánh giá sơ tuyển#+ prequalification evaluaction document
+Hỗ trợ và tư vấn trong quản lý hợp đồng#Assist and advise in contract administration and management
+Hoạt động DTBD được đấu thầu theo hình thức Chỉ định Thầu, Thầu khoán, Khoán cho người dân#Maintenance Activities procured through the Direct Contracting, Force Account, and Community Force Account procedures
+Hội nghị tiền đấu thầu#Pre-tender conference (pre-tender site visit and meeting)
+Hội nghị Tiền thi công#Pre-construction conference
+Hội thảo phổ biến kiến thức cho các nhà thầu và cộng đồng/những người hưởng lợi#Dissemination workshops for bidders and community/beneficiaries
+Hợp đồng bảo dưỡng theo khả năng thực hiện#Performance-oriented maintenance contracts
+Hợp đồng bao tiêuHĐ về việc mua một lượng tối thiểu sản phẩm của dự án tại một mức giá định trước, thường được ký kết bởi các nhà bảo trợ dự án trên cơ sở nhận-hoặc- thanh toán#off – take agreement
+Hợp đồng dựa trên tình hình hoạt động#Performance-Based Contract (PBC)
+Hợp đồng miệng#Parol contract / ‘pærəl/
+Hợp đồng phụ chỉ định#Nominated subcontract
+Hợp đồng sẽ được trao cho nhà thầu đủ tư cách có hồ sơ dự thầu đáp ứng và chào giá thấp nhất#Contract(s) shall be awarded to the qualified bidder offering the lowest evaluated and responsive bid
+Hợp đồng theo đơn giá#Unit rate contract:
+Hợp đồng thử  nghiệm mặt đường#Surfacing trial contracts
+Hợp đồng tín dụng#Agreement for a credit of
+Hợp đồng trọn góiHợp đồng trọn gói là hợp đồng có giá cố định, áp dụng cho những gói thầu được xác định rõ về số lượng, khối lượng, yêu cầu về chất lượng và thời gian tại thời điểm ký hợp đồng#Fixed-price contract/lump sum contract
+Hợp đồng xây lắp#Civil works Contract
+HSDT chào giá thấp nhất#Lowest evaluated bid
+HSDT không phù hợp#Non-Responsive Bid
+HSDT thay thế#Alternative bids
+Hướng dẫn đấu thầu theo Vốn vay của IBRD và Tín dụng của IDA#Guidelines: Procurement under IBRD Loans and IDA Credits
+Kế hoạch Đấu thầu#Procurement plan
+Kế hoạch đấu thầu mẫu#Model procurement plan
+Kế hoạch Xây lắp Năm thứ….#Annual Work Plan – AWP
+Khả năng đấu thầu#Bid capacity
+Khi phát hành Phụ lục HSMT cần xem xét kỹ phạm vi thay đổi và ảnh hưởng có thể của nó đối với công việc chuẩn bị HSDT của nhà thầu#When issuing Addenda due account should be taken of the magnitude of the change and potential effect on tenderer’s work in preparing their bids
+Kho bạc Nhà nước#The State Treasury of Vietnam
+Khoản dự phòng#Provisions for contingency
+Khoản giảm giá#Discount
+Khoản tạm tính#Provisional sum
+Khoản thanh toán tạm thời hàng tháng#Interim monthly payment
+Khoản tiền khấu trừ#Retention moneys (retention sum)
+Khối lượng hàng hoá (công việc) tối thiểu (so với tổng khối lượng yêu cầu trong hồ sơ mời thầu) mà Bên mời thầu chấp thuận cho các nhà thầu được chào thầu từ mức tối thiểu trở lên (hồ sơ dự thầu không bị coi là vi phạm và không bị loại)#Partial Quantity
+Không cần có HSMT chính thứcSử dụng trong chào hàng cạnh tranh#No formal Bidding Document
+Không hoàn trảCó ý nghĩa tương tự như hoàn trả một phần. Thường ngụ ý rằng người cho vay rất tin tưởng vào sự thành công của dự án#Non recourse
+Không mở thầu công khai đối với các bản chào hàngSử dụng trong chào hàng cạnh tranh#No Public Opening of Quotation
+Không phải là cơ quan phụ thuộc của Bên Vay hay bên mời thầu#Are not a dependent agency of the Borrower or the procuring entity
+Không quảng cáo công khai#No Public Advertising
+Không ưu tiên cho nhà sản xuất trong nước#No domestic Preference
+Không xung đột quyền lợi#No conflict of interest
+Khuyến nghị Trao thầu#Award recommendation
+Kiểm soát chất lượng của nhà thầu#Contractor quality control
+Kiểm toán Nội bộ Quốc tế#International internal auditor
+Kiểm tra (Xem xét) sau#Post review
+Kiểm tra (Xem xét) trước#Prior review
+Kiểm tra lần cuối#Final inspection
+Kiểm tra sơ bộ hồ sơ dự thầu#Examination of Bids
+Kiểm tra sơ bộ HSDT#Examination of Bids
+Ký hợp đồng trước và Tài trợ hồi tố#Advance Contracting and Retroactive Financing
+Lập kế hoạch đấu thầu#Procurement planning
+Lễ ký kết#Signing ceremony
+Liên doanh hay hiệp hội (JVA)#Joint venture or association (JVA)
+Liên doanh với một nhà thầu trong nước#Enter into a joint venture with a local bidder
+Liên đới và riêng rẽ chịu trách nhiệm#Shall be jointly and severally liable for
+Loại bỏ hồ sơ dự thầuLoại bỏ hồ sơ dự thầu là việc không xem xét tiếp hồ sơ dự thầu trong quá trình đánh giá hồ sơ dự thầu. Việc loại bỏ hồ sơ dự thầu được căn cứ theo điều kiện cụ thể về loại bỏ hồ sơ dự thầu quy định trong hồ sơ mời thầu#Elimination of Bids
+Loại hợp đồng mà nhà thầu mong muốn thắng thầu#Contracts that contractor expect to win
+Lỗi số họcLà lỗi do tính toán nhầm có thể được sửa song không được thay đổi bản chất của HSDT#Arithmetical errorsErrors arising from miscalculation which can be corrected without changing the substance of the bid.
+Lưu giữ hồ sơ đấu thầu#Procurement record-keeping
+Mà không thay đổi giá dự thầu#At no change to the bid price
+Mẫu đánh giá hsdt tiêu chuẩn của Ngân hàng Thế giới#Standard Bid Evaluation Form
+Mẫu điển hình, ví dụ như Bảo lãnh Dự thầu và Bảo lãnh Tạm ứng, Thỏa thuận Hợp đồng, Bảo lãnh Thực hiện Hợp đông, v…v#Typical Forms for, e.g., Tender and Advance Payment Securities, Contract Agreement, Performance Guarantees, etc.
+Mẫu đơn dự thầu và Phụ lục của đơn dự thầu#Forms of Tender and Appendix to Form of Tender
+Mở thầu#Opening of Bids
+Một điều kiện để tham gia đấu thầu#As a condition of participation in the bidding
+Một trong các điều kiện để trao thầu#As a condition for award
+Mua sắm hàng hoá#Procurement of Goods
+Mua sắm sai quy định#Misprocurement
+Mua sắm trên cơ sở thực hiện được nhiệm vụ#Performance Based Procurement
+Mua sắm trong nước#National Shopping
+Năng lực nhà thầu#Qualification of Bidder
+Nên xem xét việc sơ tuyển đối với các hợp đồng lớn và phức tạp#Prequalification is considered advisable for large and complicated contracts
+Nếu có yêu cầu phải sơ tuyển nhà thầu#If there is prequalification
+Nếu đấu thầu hạn chế#If there is limited bidding
+Ngày công/tháng công#Daywork/man-month
+Ngày gửi biên bản của hội nghị tiền đấu thầu tới các nhà thầu và Ngân hàng#Date minutes of conference sent to bidders and Bank
+Ngày hiệu lực#Effective date
+Ngày mục tiêu#Target dates
+Ngay sau khi có thể#As soon as available
+Ngày tính dồn#Accrual date
+Ngày tổ chức hội nghị tiền đấu thầu (nếu có)#Date of pre-bid conference, if any
+Ngày trao thầuLà ngày người có thẩm quyền quyết định nhà thầu trúng thầu#Date of decisionThe date on which the decision to ward the contract is made by the competent person
+Ngay từ đầu#From the outset/ At the outset
+Ngày, giờ mở thầu#Bid opening date, time
+Ngày, giờ và địa điểm mở thầu#Opening Time, Date, Place
+Nghĩa vụ chung của nhà  thầu#General Obligations of Contractor
+Nghiệm thu và bàn giao#acceptance and handover
+Nhà sản xuất thiết bị chính hiệuNhà sản xuất thiết bị gốc#OEMOriginal Equipment Manufacturer
+Nhà thầu chào giá thấp nhất#The contractor submitting the lowest evaluated quotation
+Nhà thầu chính#Prime Contractor
+Nhà thầu đã được sơ tuyển#Prequalified bidders
+Nhà thầu dự sơ tuyển#PQ applicants
+Nhà thầu đủ tư cách#Qualified bidders
+Nhà thầu hợp lệ#Eligible Bidders
+Nhà thầu lặt vặt#Petty contractor
+Nhà thầu quốc tế#Foreign bidder(s)
+Nhà thầu sẽ thiết kế, xây dựng và vận hành cầu tạm để phù hợp với hoạt động giao thông trên sông#Design, construct and operate the temporary bridge to accommodate river traffic movement
+Nhà thầu thắng thầu#Winning Bidder/successful bidder
+Nhà thầu theo HĐ vận hành và bảo trìNhà thầu được chủ dự án thuê  để quản lý, kinh doanh, bảo trì và sửa chữa dự án trên cơ sở HĐ O&M, hợp đồng thuê nhượng và người kế nhiệm hay được chuyển nhượng quyền của họ#Operation and Maintenance (O&M) Contractor
+Nhà thầu trong nước#Local bidders
+Nhà thầu trong nước đủ năng lực và hợp lệ#Eligible qualified local bidders
+Nhà thầu trong nước sẽ không được ưu tiên (cả trong quá trình đấu thầu và chấm thầu)#Local bidders shall be given no preference (either in the bidding process or in bid evaluation)
+Nộp HSDT và Mở thầu#Bid Submission and Opening
+Phải được thực hiện theo đúng các quy định và thủ tục liên quan của Quy tắc Đấu thầu#Shall be obtained in accordance with the relevant rules and procedures of the Procurement Regulations
+Phí cam kết#Commitment charge
+Phí cam kết sẽ được tính dồn#The commitment charge shall accrue
+Phí cam kết tính trên tổng số tiền gốc chưa rút tại từng thời điểm theo mức được Hiệp hội công bố vào ngày 30/6 hàng năm#Commitment charge on the principal amount of the Credit not withdrawn from time to time at a rate set by the Association as of June 30 of each year
+Phí cam kết và phí dịch vụ sẽ được thanh toán cứ nửa năm một lần vào các ngày 02 tháng 06 và 02 tháng 12 của mỗi năm#Commitment charges and service charges shall be payable semiannually on June 1 and December 1 in each year
+Phí cam kết và phí dịch vụ sẽ được thanh toán một năm hai lần vào ngày 1 tháng 6 và ngày 1 tháng 12 hàng năm#Commitment and service charges shall be payable semiannually on June 1 and December 1 in each year
+Phí dịch vụ bằng ba phần tư của một phần trăm (3/4 của 1%) hàng năm trên số tiền Tín dụng đã được rút và số dư tại từng thời điểm#A service charge at the rate of three-fourths of one percent (3/4 of 1%) per annum on the principal amount of the Credit withdrawn and outstanding from time to time
+Phí dịch vụ với tỷ lệ 3/4 của 1%#Service charge at the rate of three-fourths of one percent
+Phiếu xác nhận thanh toánPhiếu xác nhận thanh toán là phiếu do “Kỹ sư” (Tư vấn giám sát) xác nhận khối lượng do nhà thầu hoàn thành để chuyển cho chủ đầu tư thanh toán cho nhà thầu. Thuật ngữ này thường dùng để quy định thể thức thanh toán trong điều kiện chung của hợp đồng nêu trong Hồ sơ mời thầu#Final Payment Certificate
+Phù hợp với các quy định của khoản 2.9 và 2.10 của Hướng dẫn#In accordance with provisions of paragraphs 2.9 and 2.10 of the Guidelines
+Phương án chào thầu thay thế#Alternative Bids
+Phương pháp chia nhỏ gói thầu#“Slice and package” method
+Phương pháp đấu thầu các Công trình Nhỏ#Small Works method
+Phương pháp lựa chọn theo chất lượng và chi phí#Quality and Cost Based Selection (QCBS)
+Phương pháp Tuyển chọn theo Chi phí thấp nhất#Least-based Selection
+Quá trình sơ tuyển#Prequalification Proceedings
+Quy chế Đấu thầu#Procurement regulation
+Quy chuẩn hợp đồng#Contract standard
+Quy đổi sang đồng tiền chung#Conversion to a single currency
+Quỹ khấu trừ, giữ lại#Retention fund (retention facility)
+Quy trình đấu thầu#Bidding process
+Rủi ro về đấu thầu#Procurement risk
+Sẽ không có đàm phán sau khi đấu thầu với nhà thầu bỏ giá thấp nhất hay nhà thầu khác#There shall be no post-bidding negotiations with the lowest or other bidder
+Sẽ không đem lại lợi thế cho nhà thầu#Would not confer any advantage on the bidder
+Số công ty mua hồ sơ mời thầu#Number of firms issued documents
+Số dư cuối/đầu kỳ#Closing /Opening cash balance
+Sổ ghi hợp đồng#Consolidated contract roster/register
+Số HSDT nhận được#Number of bids submitted
+So sánh trình độ và kinh nghiệm của các ứng cử viên#Comparison of the qualifications and experiece of candidates
+Số tiền tín dụng#The amount of the Credit
+Sơ tuyển (nếu có)#Prequalification if required
+số công ty được sơ tuyển#number of firms prequalified
+ngày Ngân hàng chấp thuận#date of Bank’s no-objection
+Sơ tuyển nhà thầu#Prequalification
+Sơ tuyển nhà thầu#Prequalification of bidders
+Sơ tuyển#Prequalification
+quá trình xét tuyển nhà thầu tiềm năng được tiến hành trước khi phát hành thư mời thầu#qualification of potential contractors is carried out before invitation to tender have been issued
+Số vụ thông đồng (trong đấu thầu)#Number of collusion cases
+Soạn thảo hợp đồng và quản lý hợp đồng#Contract preparation and contract management
+Sử dụng đơn giá chuẩn đã được chính phủ phê duyệt dựa vào định mức chi phí#Using government-approved standard unit rates based on cost norms
+Sử dụng khoản tiền tạm tính#Use of Provisional Sums
+Sử dụng sai quá trình sơ tuyển#Failure to Use Prequalification Procedure
+Sử dụng ưu đãi cho nhà thầu trong nước#Use of domestic preference in tender assessment
+Sự hợp lệ, Tư cách hợp lệ#Eligibility
+Sự vận động trong quá trình đấu thầu và thông đồng giữa các nhà thầu#Manipulation of procurement process and collusion among bidders
+Sửa đổi các bản đề nghị#Correction to statements
+Sửa đổi cuối cùng#Closing amendment
+Sửa đổi Hồ sơ Mời thầu (HSMT)#Amendments to Tender Documents
+Sửa đổi Hợp đồng#Contract amendment
+Sửa đổi sau này#Subsequent revisions
+Sửa đổi, bổ sung HSMT (nếu có)#Amendments to documents, if any
+liệt kê tất cả các ngày phát hành#list all issue dates
+ngày (các ngày) Ngân hàng chấp thuận#date(s) of Bank’s no-objection
+Tài khoản cố định (tài khoản tài sản)#Asset account
+Tài khoản Đặc biệt#Special account
+Tài khoản Ngoại hối#Foreign exchange account (forex)
+Tài khoản nợ#Debtor account
+Tài liệu hỗ trợ#Supporting documents
+Tài liệu Hướng dẫn Nhà thầu (tùy chọn)#Notes for the Guidance of Tenderers (optional)
+Tăng các cơ hội thắng thầu cho một công ty#Increase the chances of a company winning the contract
+Tăng cường tính minh bạch#Improvement of transparency
+Tất cả các tiêu chí được quy định và chỉ các tiêu chí được quy định mới được sử dụng để xác định tư cách của nhà thầu#All criteria so specified, and only criteria so specified, shall be used to determine whether a bidder is qualified.
+Tất cả các tiêu chí được quy định và chỉ các tiêu chí được quy định mới được xem xét trong quá trình xét thầu (đánh giá hồ sơ dự thầu)#All criteria so specified, and only criteria so specified, shall be taken into account in bid evaluation
+Tên của nhà thầu mà HSDT bị loại và lý do loại#Name of bidders who bids were rejected and the reasons for rejection
+Tên của Nhà thầu nộp HSDT#Name of the Bidder who submitted a bid
+Tên của Nhà thầu thắng thầu, Giá chào, cũng như thời gian và phạm vi của hợp đồng được trao#Name of the winning Bidder, and the Price it offered, as well the duration and summary scope of the contract awarded
+Tên và giá đánh giá của từng HSDT đã được đánh giá#Name and evaluated prices of each Bid that was evaluated
+Tham gia đấu thầu và ưu tiên#Participation in bidding and preferences
+Thành phần của Ủy ban Đánh giá Thầu#Composition of Bid Evaluation Committee
+Thầu khoán/Khóan cho Người dân#Force Account/Community Force Account
+Theo các điều khoản và điều kiện được Hiệp hội chấp thuận#On terms and conditions satisfactory to the Association
+Thiên vị hay phân biệt đối xử với một nhà thầu sơ tuyển nào đó#Discriminate in favour of or against one particular applicant
+Thiết bị và Nhân sự#Equipment and Personnel
+Thiếu bảo đảm dự thầu#Absence of Security
+Thoả thuận Hợp đồng#Contract agreement
+Thỏa thuận Tài chính#Financial covenants
+Thời gian có hiệu lực của HSDT#Period of effectiveness of tenders
+Thời gian hiệu lực của HSDT (ngày và tuần)#Bid validity period (days and weeks)
+quy định ban đầu#originally specified
+gia hạn (nếu có)#extensions, if any
+ngày Ngân hàng chấp thuận (nếu cần thiết)#date of Bank’s no-objection, if required
+Thông báo (công bố) trên các công báo của chính phủ nước có dự án#Publication in officical gazettes of the government of the project country
+Thông báo Đấu thầu Chi tiết#Specific procurement notice
+Thông báo Đấu thầu Chung#General procurement notice
+Thông báo Đấu thầu Chung (bao quát tất cả các khía cạnh của một dự án)#General Procurement Notice (cover all aspects of a project)
+Thông báo Đấu thầu Riêng (thường sử dụng cho từng hợp đồng)#Specific Procurement Notice (would be for individual contracts)
+Thông báo đấu thầu và quảng cáo#Notification and Advertising
+Thông báo Hoạt động#Notice to Operations
+Thông báo Mời thầu Chung#General Procurement Notice
+ngày phát hành đầu tiên#first issue date
+cập nhật ngày gần đây nhất#latest update
+Thông báo Mời thầu Riêng tên tờ báo trong nước đăng thông báo báo ngày đăng thông báo tên tờ báo quốc tế đăng thông báo ngày đăng thông báo số công ty được thông báo#Specific procurement notice name of national newspaper issue date name of international publication issue date number of firms notified
+Thông báo nhà thầu vượt qua vòng sơ tuyển và nhà thầu không vượt qua vòng sơ tuyển#Notification of sucessful and unsucessful applicants
+Thông báo sơ tuyển#Prequalification notice
+Thông báo Thực hiện#Notice to Proceed
+Thông báo trao thầu#Notification of award
+Thông đồng trong đấu thầu#Collusion in procurement
+Thư mời Sơ tuyển#Invitation for Prequalification
+Thư mời thầu#Invitation for Tenders
+Thư thông báo (Thư chấp thuận)#Notification letter (letter of acceptance)
+Thư trình đính kèm#Letter of Transmittal
+Thủ tục đánh giá HSDT#Procedures for Evaluation of Bids
+Thủ tục đấu thầu cạnh tranh (rộng rãi)#Competitive bidding procedures
+Thuê các cán bộ nhà nước#Hiring of Government Officials
+Thuê các cơ quan nhà nước, các trường đại học và viện nghiên cứu#Hiring of Government Agencies, Universities and Research Institutes
+Thuê một cơ quan độc lập thực hiện việc theo dõi và giám sát bên ngoài công tác thực hiện các biện pháp bảo đảm an toàn xã hội và môi trường#Retain an independent agency to undertake  external monitoring and supervision of the implementation of social and environmental safeguards measures
+Tiền gốc và lãi#Principal and interest
+Tiền thuê#Royalties
+Tiêu chí đánh giá HSDT và xét tuyển nhà thầu#Evaluation and qualification criteria
+Tiêu chí đánh giá tư cách nhà thầu (xét tuyển nhà thầu) và đánh giá HSDT#Qualification and Evaluation Criteria
+Tiêu chí hợp lệ#Eligibility criteria
+Tiêu chí lựa chọn tuyến#Road selection criteria
+Tiêu chí sơ tuyển đặc biệt dành cho nhà thầu liên doanh#Particular prequalifcation criteria for joint ventures
+Tiêu chí sơ tuyển nhà thầu#Prequalification criteria
+Tiêu chuẩn đánh giá hồ sơ dự thầuTiêu chuẩn đánh giá là những tiêu chí biểu hiện những yêu cầu của hồ sơ mời thầu về các mặt kỹ thuật, tài chính, thương mại và các yêu cầu khác tuỳ theo từng gói thầu dùng để làm căn cứ đánh giá hồ sơ dự thầu. Tiêu chuẩn đánh giá được nêu trong hồ sơ mời thầu#Evaluation Criteria
+Tiêu chuẩn về trình độ và năng lực#Criteria of Qualification and Capacity
+Tình huống thường hay gặp phải#Frequently-encountered situation
+Tính trong sáng và rõ ràng của Tài liệu sơ tuyển#Clarity and comprehensiveness of the PQ document
+Tổ chuyên gia đấu thầu#
+Trách nhiệm của nhà thầu đối với công trình#Contractor’s responsibility for work
+Trách nhiệm giải trình#Lack of accountability
+Trách nhiệm pháp lý của nhà thầu#Contractor’s Liability
+Trang tin Đấu thầu Công#Government public procurement bulletin
+Tránh tình huống bất công bằng có thể xảy ra#Avoid the potentially invidious situation
+Trao hợp đồngLà việc thông báo kết quả đấu thầu cho nhà thầu trúng thầu biết#Award of contractNotification to a bidder of acceptance of his/her bid
+Trong quá trình đánh giá hồ sơ dự thầu mua sắm hàng hoá dịch vụ#In the technical evaluation of bids for goods and services
+Trong trường hợp cần thiết phải sửa đổi một phần nào đó của HSMT sau khi mà HSMT đã được phát hành#In the event that amendments are required to any of the Tender Documents after they have been issued
+Trong trường hợp nhà thầu là các cá nhân#In case of individuals
+Trong trường hợp nhà thầu là các công ty#In case of firms
+Trong trường hợp những dự án đặc biệt phức tạp#In the case of projects of exceptional complexity
+Trong vòng 28 ngày kể từ ngày nhận thông báo trúng thầu của Chủ đầu tư, nhà thầu thằng thầu phải nộp bảo lãnh thực hiện hợp đồng theo đúng các điều kiện của hợp đồng#Within twenty-eight (28) days of the receipt of notification of award from the Employer, the successuful Bidder shall furnish the performance security in accordance with the conditions of contract
+Trước khi lựa chọn nhà cung cấp/bên thực hiện hợp đồng theo thủ tục chào hàng cạnh tranh#Prior to the selection of the supplier/execution of any contract under shopping procedures
+Trước khi thực hiện hợp đồng đấu thầu theo thủ tục chào hàng cạnh tranh#Prior to the execution of the contract procured under shopping procedures
+Tự thực hiện (chủ dự án có đủ năng      l lực để thực hiện gói thầu của mình)#Force account
+Tự thực hiện: nghĩa là việc xây dựng sử dụng chính thiết bị và nhân công của Bên vay, có thể là phương thức có tính thực tế duy nhất để xây dựng một số loại công trình.#Force account: that is, construction by the use of the Borrower’s own personnel and equipment,50 may be the only practical method for constructing some kinds of works
+Tư vấn Giám sát Xây lắp (Thi công)#Construction supervision consultants
+Tư vấn Thực hiện Dự án#Project implementation advisor
+Tuân thủ tiêu chuẩn đạo đức cao nhất trong quá trình đấu thầu và thực hiện các hợp đồng của Ngân hàng Thế giới#Observe the highest standard of ethics during the procurement and execution of the Bank-financed contracts
+Tuyển chọn cố vấn thực hiện dự án#Selection of Project Implementation Advisor
+Tuyển chọn dựa vào Chất lượng#Quality-based Selection
+Tuyển chọn dựa vào Chất lượng và Chi phí#Quality-and Cost-based Selection
+Tuyển chọn tư vấn giám sát thi công#Selection of construction supervison consultants
+Tuyển chọn tư vấn khảo sát, thiết kế kỹ thuật chi tiết và dự toán#Selection of consultants for survey, detailed technical design and cost estimate
+Ưu tiên hàng hoá được sản xuất trong nước và nhà thầu trong nước#Preference for domestically manufactured goods and domestic contractors
+Việc chấm thầu phải được thực hiện tuận thủ chặt chẽ các tiêu chí đã quy định trong hồ sơ mời thầu#Evaluation of bids shall be made in strict adherence to the criteria specified in the bidding documents
+Việc đánh giá hồ sơ dự sơ tuyển phải được tiến hành một cách khách quan nhất#Assessment of prequalification submissions should be made as objective as possible
+Việc đấu thầu không thoả mãn yêu cầu#Unsatisfactory procurement
+Việc nhà thầu thắng thầu không thể đệ trình bảo lãnh thực hiện hợp đồng nói trên sẽ cấu thành đầy đủ cơ sở để hủy bỏ việc trao thầu và tịch thu bảo lãnh dự thầu#Failure of the successful Bidder to submit the above-mentioned Performance Security or sign the Contract shall constitute sufficient grounds for the annulment of the award and forfeiture of the bid security
+Việc phê duyệt dự thảo hồ sơ mời thầu, báo cáo đánh giá thầu và đề xuất trao thầu#Approval of draft bidding documents, bid evaluation reports and proposals for award
+Việc sửa đổi này phải được giải quyết qua Thông báo Sửa đổi HSMT hay Phụ lục HSMT#These will be handled by means of Tender Notices or Tender Addenda
+Xây lắp công trìnhLà những công việc thuộc quá trình xây dựng và lắp đặt thiết bị các công trình, hạng mục công trình#Civil worksThe works related to construction and installation of equipment for projects or project components
+Xem xét trao thầu#Consideration for award
+Xem xét và cập nhật các hệ thống dữ liệu liên quan đến đơn giá duy tu bảo dưỡng#Review and update data systems related to unit costs for maintenance works
+Xem xét và nếu cấn thiết hỗ trợ việc lập hồ sơ mời thầu mua sắm dịch vụ và vật liệu mà cần thiết phải đấu thầu, bao gồm cả điều khoản tham chiếu cho nhà thầu và xây dựng quy cách kỹ thuật của thiết bị#Review and, as necessary assist in the preparation of, bidding documents for services and materials to be procured, including terms of reference for contractors and equipment specifications
+Xếp hạng nhà thầu#Ranking of Bidders
+Xét tuyển nhà thầu#Qualification of tenderers
+Xử lý tình huống trong đấu thầu#Handling cases encountered during bidding process
+Xung đột quyền lợi#Have a conflict of interest
+Yêu cầu không bao gồm trong đơn giá và giá#Requirement(s) not included in rates and prices
+Yêu cầu riêng (cụ thể) đối với nội dung và/hoặc việc phát hành Thông báo#Specific requirements as to the content and/or circulation of the Notice
+Yêu cầu về vòng quay tiền mặt#Cash-flow requirements
+Yếu tố cần xem xét trong quá trình đánh giá#The factors that will be taken into account in the assessment
+Yếu tố tăng giá#escalation Factor(s)
